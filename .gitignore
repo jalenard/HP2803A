@@ -1,0 +1,16 @@
+/build/
+/docs/
+/obselete/
+/tmp/
+
+# Common build artifacts (optional extra safety)
+*.o
+*.a
+*.elf
+*.hex
+*.map
+*.d
+*~
+*.swp
+*.swo
+.DS_Store

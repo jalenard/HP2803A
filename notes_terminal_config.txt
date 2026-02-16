@@ -1,0 +1,12 @@
+Before running program (./build/prog):
+    stty -icanon -echo min 0 time 0
+
+Explanation:
+    -icanon → every char delivered immediately
+    -echo → don't echo chars
+    min 0 time 0 → read() returns immediately
+    (required for non-blocking with canonical mode off)
+
+Restore shell afterwards:
+    stty sane
+
