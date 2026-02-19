@@ -11,7 +11,13 @@ The device is primarily operated by three push-buttons ('select', 'back' and 'ca
 
 This short video shows the user changing the display units from Celsius to Fahrenheit:
 
-[![HP2803A in operation](https://img.youtube.com/vi/OgvYBpkl1Y0/0.jpg)](https://www.youtube.com/watch?v=OgvYBpkl1Y0)
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=OgvYBpkl1Y0">
+    <img src="https://img.youtube.com/vi/OgvYBpkl1Y0/0.jpg"
+         alt="HP2803A in operation"
+         width="300">
+  </a>
+</p>
 
 ## Architecture
 
