@@ -1,0 +1,64 @@
+name: Build & publish Doxygen
+
+on:
+  push:
+    branches: ["main"]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: true
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Install Doxygen (+ graphviz)
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y doxygen graphviz
+
+      - name: Build docs (A64 + AVR)
+        run: |
+          bash scripts/doxy_build.sh
+
+      - name: Prepare Pages content
+        run: |
+          rm -rf public
+          mkdir -p public/a64 public/avr
+          cp -r docs/a64/html/* public/a64/
+          cp -r docs/avr/html/* public/avr/
+          touch public/.nojekyll
+          cat > public/index.html <<'EOF'
+          <!doctype html><meta charset="utf-8">
+          <title>HP2803A Docs</title>
+          <h1>HP2803A Documentation</h1>
+          <ul>
+            <li><a href="./avr/">AVR docs</a></li>
+            <li><a href="./a64/">A64 docs</a></li>
+          </ul>
+          EOF
+
+      - name: Upload Pages artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: public
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
