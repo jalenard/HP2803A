@@ -3,8 +3,8 @@
 /tmp/
 
 # Generated documentation and coding manuals
-/docs/a64/
-/docs/avr/
+/docs/a64/html/
+/docs/avr/html/
 /docs/manuals/
 
 # Compiled artifacts
