@@ -1,0 +1,7 @@
+<map id="system/sys_counters.c" name="system/sys_counters.c">
+<area shape="rect" id="node1" title=" " alt="" coords="67,5,237,32"/>
+<area shape="rect" id="node2" title=" " alt="" coords="40,155,123,181"/>
+<area shape="rect" id="node3" title=" " alt="" coords="187,155,258,181"/>
+<area shape="rect" id="node4" href="$hw__counters_8h.html" title=" " alt="" coords="23,80,139,107"/>
+<area shape="rect" id="node5" href="$sys__counters_8h.html" title="Service layer interface for reading and controlling counters." alt="" coords="163,80,282,107"/>
+</map>

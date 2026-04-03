@@ -1,0 +1,10 @@
+<map id="hardware/avr/eeprom_drv.c" name="hardware/avr/eeprom_drv.c">
+<area shape="rect" id="node1" title="Handles EEPROM storage and integrity of system settings." alt="" coords="131,5,294,47"/>
+<area shape="rect" id="node2" title=" " alt="" coords="7,169,90,196"/>
+<area shape="rect" id="node3" title=" " alt="" coords="23,95,133,121"/>
+<area shape="rect" id="node4" href="$sys__settings__types_8h.html" title=" " alt="" coords="292,95,451,121"/>
+<area shape="rect" id="node6" href="$utils__crc_8h.html" title=" " alt="" coords="475,95,563,121"/>
+<area shape="rect" id="node7" href="$eeprom__drv_8h.html" title="Low&#45;level AVR EEPROM access driver." alt="" coords="157,95,268,121"/>
+<area shape="rect" id="node5" title=" " alt="" coords="336,169,407,196"/>
+<area shape="rect" id="node8" title=" " alt="" coords="175,169,250,196"/>
+</map>

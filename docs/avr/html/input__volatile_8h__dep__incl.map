@@ -1,0 +1,8 @@
+<map id="hardware/avr/input_volatile.h" name="hardware/avr/input_volatile.h">
+<area shape="rect" id="node1" title=" " alt="" coords="489,5,635,47"/>
+<area shape="rect" id="node2" href="$input__mcal_8h.html" title=" " alt="" coords="435,95,580,136"/>
+<area shape="rect" id="node6" href="$timer__mcal_8c.html" title=" " alt="" coords="605,184,751,225"/>
+<area shape="rect" id="node3" href="$hw__hardware__init_8c.html" title=" " alt="" coords="5,184,204,225"/>
+<area shape="rect" id="node4" href="$hw__input_8c.html" title=" " alt="" coords="228,191,411,218"/>
+<area shape="rect" id="node5" href="$input__mcal_8c.html" title=" " alt="" coords="435,184,580,225"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="hardware/avr/timer_mcal.h" name="hardware/avr/timer_mcal.h">
+<area shape="rect" id="node1" title="Initializes Timer 0 (periodic debounce tick) and Timer 1 (1 Hz base timer)." alt="" coords="307,5,454,47"/>
+<area shape="rect" id="node2" href="$hw__hardware__init_8c.html" title=" " alt="" coords="5,184,204,225"/>
+<area shape="rect" id="node3" href="$input__mcal_8h.html" title=" " alt="" coords="308,95,453,136"/>
+<area shape="rect" id="node6" href="$timer__mcal_8c.html" title=" " alt="" coords="605,184,751,225"/>
+<area shape="rect" id="node4" href="$hw__input_8c.html" title=" " alt="" coords="228,191,411,218"/>
+<area shape="rect" id="node5" href="$input__mcal_8c.html" title=" " alt="" coords="435,184,580,225"/>
+</map>

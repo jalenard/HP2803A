@@ -1,0 +1,11 @@
+<map id="display_clear_all" name="display_clear_all">
+<area shape="rect" id="node1" title=" " alt="" coords="5,163,136,190"/>
+<area shape="rect" id="node2" href="$led_8c.html#aa2961bc0eb130ceeda831246301dadf9" title=" " alt="" coords="184,68,297,95"/>
+<area shape="rect" id="node3" href="$error_8c.html#a658e219270edbf3ebd079edf440e1d36" title=" " alt="" coords="505,94,596,120"/>
+<area shape="rect" id="node7" href="$gpio__mcal_8c.html#a9cdb8225280c6c2bbbb52a3d65dbbada" title=" " alt="" coords="957,68,1105,95"/>
+<area shape="rect" id="node9" href="$toggle_8c.html#ac53495894beb927820d9ed7580528a99" title=" " alt="" coords="345,43,457,70"/>
+<area shape="rect" id="node4" href="$hardware_8c.html#a47191dfa6786da2498eb49ae28f8d361" title=" " alt="" coords="644,170,755,196"/>
+<area shape="rect" id="node5" href="$display_8c.html#a407d5033a6f0198221c8a9081d7e807e" title=" " alt="" coords="807,246,905,272"/>
+<area shape="rect" id="node6" href="$gpio__mcal_8c.html#afdbe206b3c49f019757ab09b3cf52b9c" title=" " alt="" coords="817,144,895,171"/>
+<area shape="rect" id="node8" href="$interrupt__mcal_8c.html#aae3db3a98d70c22944d98e61fa398938" title=" " alt="" coords="803,195,909,222"/>
+</map>

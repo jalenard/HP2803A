@@ -1,0 +1,7 @@
+<map id="core/cor_menu_tree.h" name="core/cor_menu_tree.h">
+<area shape="rect" id="node1" title=" " alt="" coords="286,5,449,32"/>
+<area shape="rect" id="node2" href="$cor__menu__nav_8c.html" title=" " alt="" coords="5,80,164,107"/>
+<area shape="rect" id="node3" href="$cor__menu__tree_8c.html" title=" " alt="" coords="189,80,351,107"/>
+<area shape="rect" id="node4" href="$cor__render__views_8c.html" title=" " alt="" coords="375,80,554,107"/>
+<area shape="rect" id="node5" href="$svc__display_8c.html" title="Display service built on top of view_buf." alt="" coords="578,80,743,107"/>
+</map>

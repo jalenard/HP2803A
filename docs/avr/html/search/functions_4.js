@@ -1,0 +1,10 @@
+var searchData=
+[
+  ['eeprom_5fdrv_5fcommit_0',['eeprom_drv_commit',['../eeprom__drv_8c.html#af5d93e6cef245313ceea6978140e52bc',1,'eeprom_drv_commit(void):&#160;eeprom_drv.c'],['../eeprom__drv_8h.html#af5d93e6cef245313ceea6978140e52bc',1,'eeprom_drv_commit(void):&#160;eeprom_drv.c']]],
+  ['eeprom_5fdrv_5finit_1',['eeprom_drv_init',['../eeprom__drv_8c.html#a1518cc219aed76cbd42aa90d913d3614',1,'eeprom_drv_init(void):&#160;eeprom_drv.c'],['../eeprom__drv_8h.html#a1518cc219aed76cbd42aa90d913d3614',1,'eeprom_drv_init(void):&#160;eeprom_drv.c']]],
+  ['eeprom_5fdrv_5fread_2',['eeprom_drv_read',['../eeprom__drv_8c.html#a9f39a001747f8dbb6cc5f6f52de40639',1,'eeprom_drv_read(uint16_t addr, void *data, size_t len):&#160;eeprom_drv.c'],['../eeprom__drv_8h.html#a9f39a001747f8dbb6cc5f6f52de40639',1,'eeprom_drv_read(uint16_t addr, void *data, size_t len):&#160;eeprom_drv.c']]],
+  ['eeprom_5fdrv_5fread_5fsettings_3',['eeprom_drv_read_settings',['../eeprom__drv_8c.html#a86a31724efd72494ed72f8f4efcd02c2',1,'eeprom_drv_read_settings(Settings *dst):&#160;eeprom_drv.c'],['../eeprom__drv_8h.html#a86a31724efd72494ed72f8f4efcd02c2',1,'eeprom_drv_read_settings(Settings *dst):&#160;eeprom_drv.c']]],
+  ['eeprom_5fdrv_5fwrite_4',['eeprom_drv_write',['../eeprom__drv_8c.html#a069a977f459d0c9e8edbea24437a2fc3',1,'eeprom_drv_write(uint16_t addr, const void *data, size_t len):&#160;eeprom_drv.c'],['../eeprom__drv_8h.html#a069a977f459d0c9e8edbea24437a2fc3',1,'eeprom_drv_write(uint16_t addr, const void *data, size_t len):&#160;eeprom_drv.c']]],
+  ['eeprom_5fdrv_5fwrite_5fsettings_5',['eeprom_drv_write_settings',['../eeprom__drv_8c.html#a59e4b692d4b4621756d185d4b4029c01',1,'eeprom_drv_write_settings(const Settings *src):&#160;eeprom_drv.c'],['../eeprom__drv_8h.html#a59e4b692d4b4621756d185d4b4029c01',1,'eeprom_drv_write_settings(const Settings *src):&#160;eeprom_drv.c']]],
+  ['error_5ffatal_6',['error_fatal',['../error_8c.html#a658e219270edbf3ebd079edf440e1d36',1,'error_fatal(void):&#160;error.c'],['../error_8h.html#a658e219270edbf3ebd079edf440e1d36',1,'error_fatal(void):&#160;error.c']]]
+];

@@ -1,0 +1,4 @@
+<map id="system/sys_eeprom.h" name="system/sys_eeprom.h">
+<area shape="rect" id="node1" title="EEPROM interface for system settings." alt="" coords="5,5,171,32"/>
+<area shape="rect" id="node2" href="$sys__eeprom_8c.html" title="Hardware&#45;agnostic EEPROM management for system settings." alt="" coords="6,80,170,107"/>
+</map>

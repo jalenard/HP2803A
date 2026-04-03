@@ -1,0 +1,12 @@
+<map id="transmit_results" name="transmit_results">
+<area shape="rect" id="node1" title=" " alt="" coords="5,132,133,159"/>
+<area shape="rect" id="node2" href="$svc__output_8c.html#a7aad6fbd39abfb913b6da7fac13545dc" title=" " alt="" coords="181,132,309,159"/>
+<area shape="rect" id="node3" href="$sys__counters_8c.html#a67190493a6bd337cdd2d6bc50cc8d018" title=" " alt="" coords="383,5,470,32"/>
+<area shape="rect" id="node4" href="$svc__temperature_8c.html#a6a2e9080f6852205ddb01b74490ff9c8" title=" " alt="" coords="385,56,469,83"/>
+<area shape="rect" id="node5" href="$sys__output_8c.html#a29dcf57c3e3437450cc0fa55c491750d" title=" " alt="" coords="358,107,495,133"/>
+<area shape="rect" id="node8" href="$utils_8c.html#a291237c68b81fa9ac4e36e9ad4b30cd5" title=" " alt="" coords="363,157,491,184"/>
+<area shape="rect" id="node9" href="$utils_8c.html#a4c885d2e936b130c9ce828a3fa32f420" title=" " alt="" coords="357,208,496,235"/>
+<area shape="rect" id="node10" href="$utils_8c.html#afee56e7be0b8486c4b80a152699533dd" title=" " alt="" coords="363,259,490,285"/>
+<area shape="rect" id="node6" href="$sys__output_8c.html#acf0204f0d67229101384f15a7d81c99b" title=" " alt="" coords="544,107,699,133"/>
+<area shape="rect" id="node7" href="$hw__output_8c.html#a92d6ecf0a1e8bf8682fb6fab8144e3f6" title=" " alt="" coords="747,107,899,133"/>
+</map>

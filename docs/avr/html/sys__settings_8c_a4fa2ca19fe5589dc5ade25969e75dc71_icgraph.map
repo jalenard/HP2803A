@@ -1,0 +1,13 @@
+<map id="get_current_settings" name="get_current_settings">
+<area shape="rect" id="node1" title=" " alt="" coords="989,56,1144,83"/>
+<area shape="rect" id="node2" href="$cor__temp__compute_8c.html#af47260ef99abf81cb80c5936fff33c1d" title=" " alt="" coords="759,5,941,32"/>
+<area shape="rect" id="node5" href="$cor__data__provider_8c.html#a2e8f20e60ce1c1f990750dd52973b663" title=" " alt="" coords="759,56,941,83"/>
+<area shape="rect" id="node9" href="$sys__settings__apply_8c.html#a9aa10e26b043b1c412e9a8c97e739cc1" title=" " alt="" coords="777,107,923,133"/>
+<area shape="rect" id="node3" href="$svc__temperature_8c.html#a4e0f32c70187ba94f1f9f1336e7a3966" title=" " alt="" coords="149,5,257,32"/>
+<area shape="rect" id="node4" href="$main_8c.html#ae66f6b31b5ad750f1fe042a706a4e3d4" title=" " alt="" coords="5,56,60,83"/>
+<area shape="rect" id="node6" href="$cor__render__views_8c.html#acf3aaf7b3c678dc0cc399476bc719524" title=" " alt="" coords="567,56,707,83"/>
+<area shape="rect" id="node7" href="$svc__sample_8c.html#a4792d56a590c8276040d5aa61b962c93" title=" " alt="" coords="347,56,516,83"/>
+<area shape="rect" id="node8" href="$svc__view_8c.html#a791999ec9a94bd72a918f9217c163cbb" title=" " alt="" coords="108,56,299,83"/>
+<area shape="rect" id="node10" href="$svc__settings_8c.html#a8eec7e7b1a244ce965b607c5bdcc2c27" title=" " alt="" coords="564,107,711,133"/>
+<area shape="rect" id="node11" href="$app__init_8c.html#a0e95431f48ee71c1040217b94766ffcf" title=" " alt="" coords="370,107,493,133"/>
+</map>

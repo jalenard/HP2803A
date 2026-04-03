@@ -1,0 +1,9 @@
+<map id="svc_settings_init" name="svc_settings_init">
+<area shape="rect" id="node1" title=" " alt="" coords="5,31,136,57"/>
+<area shape="rect" id="node2" href="$sys__settings_8c.html#a20f0f937791e2c5faef2c8b682fc1083" title=" " alt="" coords="184,31,315,57"/>
+<area shape="rect" id="node3" href="$hw__store_8c.html#a55a0a1b5fbc2c8d978aa88bd082d6c0e" title=" " alt="" coords="363,5,531,32"/>
+<area shape="rect" id="node7" href="$sys__settings_8c.html#adad744d64864999a930aaaa4fc5b01ee" title=" " alt="" coords="368,56,525,83"/>
+<area shape="rect" id="node4" href="$eeprom__drv_8c.html#a86a31724efd72494ed72f8f4efcd02c2" title=" " alt="" coords="579,5,773,32"/>
+<area shape="rect" id="node5" href="$eeprom__drv_8c.html#a7b37c7b1961b4e955d26f44c528a6d35" title=" " alt="" coords="821,5,955,32"/>
+<area shape="rect" id="node6" href="$utils__crc_8c.html#a3969f8435f9bfb501ea9d00309b91c9e" title="Compute a 16&#45;bit CRC (CRC&#45;16/CCITT&#45;FALSE variant)." alt="" coords="1003,5,1060,32"/>
+</map>

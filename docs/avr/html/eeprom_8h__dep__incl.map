@@ -1,0 +1,5 @@
+<map id="hardware/avr/eeprom.h" name="hardware/avr/eeprom.h">
+<area shape="rect" id="node1" title="Low&#45;level AVR EEPROM access driver." alt="" coords="106,5,281,32"/>
+<area shape="rect" id="node2" href="$eeprom_8c.html" title="Minimal EEPROM driver for AVR hardware." alt="" coords="5,80,179,107"/>
+<area shape="rect" id="node3" href="$hw__store_8c.html" title="AVR implementation of persistent storage backend." alt="" coords="203,80,386,107"/>
+</map>

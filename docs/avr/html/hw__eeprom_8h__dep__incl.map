@@ -1,0 +1,5 @@
+<map id="hardware/hw_eeprom.h" name="hardware/hw_eeprom.h">
+<area shape="rect" id="node1" title=" " alt="" coords="120,5,295,32"/>
+<area shape="rect" id="node2" href="$hw__eeprom_8c.html" title="EEPROM driver for AVR platform." alt="" coords="5,80,204,107"/>
+<area shape="rect" id="node3" href="$sys__eeprom_8c.html" title="Hardware&#45;agnostic EEPROM management for system settings." alt="" coords="228,80,392,107"/>
+</map>

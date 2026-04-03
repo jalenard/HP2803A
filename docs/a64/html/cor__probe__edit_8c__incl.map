@@ -1,0 +1,15 @@
+<map id="core/cor_probe_edit.c" name="core/cor_probe_edit.c">
+<area shape="rect" id="node1" title=" " alt="" coords="280,5,441,32"/>
+<area shape="rect" id="node2" title=" " alt="" coords="8,80,79,107"/>
+<area shape="rect" id="node3" title=" " alt="" coords="103,80,170,107"/>
+<area shape="rect" id="node4" href="$cor__probe__edit_8h.html" title=" " alt="" coords="245,80,375,107"/>
+<area shape="rect" id="node5" href="$cor__core__types_8h.html" title="Defines type aliases and data structures for system settings." alt="" coords="5,155,137,181"/>
+<area shape="rect" id="node8" href="$cor__probe__db_8h.html" title=" " alt="" coords="352,155,473,181"/>
+<area shape="rect" id="node9" href="$svc__input_8h.html" title=" " alt="" coords="463,80,559,107"/>
+<area shape="rect" id="node11" href="$utils_8h.html" title=" " alt="" coords="667,155,729,181"/>
+<area shape="rect" id="node12" href="$cor__view_8h.html" title=" " alt="" coords="722,80,813,107"/>
+<area shape="rect" id="node7" href="$cor__menu__types_8h.html" title="Defines types and data structures for the hierarchical menu system." alt="" coords="162,155,303,181"/>
+<area shape="rect" id="node6" title=" " alt="" coords="476,229,547,256"/>
+<area shape="rect" id="node10" href="$hw__input_8h.html" title=" " alt="" coords="549,155,642,181"/>
+<area shape="rect" id="node13" href="$hw__display_8h.html" title=" " alt="" coords="753,155,859,181"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="hw_store_read_settings" name="hw_store_read_settings">
+<area shape="rect" id="node1" title=" " alt="" coords="5,5,181,32"/>
+<area shape="rect" id="node2" href="$eeprom__drv_8c.html#a86a31724efd72494ed72f8f4efcd02c2" title=" " alt="" coords="229,5,424,32"/>
+<area shape="rect" id="node3" href="$eeprom__drv_8c.html#a7b37c7b1961b4e955d26f44c528a6d35" title=" " alt="" coords="472,5,605,32"/>
+<area shape="rect" id="node4" href="$utils__crc_8c.html#a3969f8435f9bfb501ea9d00309b91c9e" title="Compute a 16&#45;bit CRC (CRC&#45;16/CCITT&#45;FALSE variant)." alt="" coords="653,5,711,32"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="sys_eeprom_read" name="sys_eeprom_read">
+<area shape="rect" id="node1" title="Read validated settings from EEPROM." alt="" coords="183,5,320,32"/>
+<area shape="rect" id="node2" href="$sys__eeprom_8c.html#ab187a77aec27e1eea553c4d938f61c1b" title="Initialize settings from EEPROM or fall back to defaults." alt="" coords="5,5,135,32"/>
+</map>

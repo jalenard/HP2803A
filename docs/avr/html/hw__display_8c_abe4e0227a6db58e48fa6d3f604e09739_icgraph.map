@@ -1,0 +1,7 @@
+<map id="display_update" name="display_update">
+<area shape="rect" id="node1" title=" " alt="" coords="387,56,508,83"/>
+<area shape="rect" id="node2" href="$led__mcal_8c.html#a9504ec91a05857468e63617f822cc593" title="Clear all LED displays." alt="" coords="210,5,317,32"/>
+<area shape="rect" id="node4" href="$led__mcal_8c.html#a5453a7a781ce4e44cba0a7ccea8c973d" title="Push a full logical view buffer to the physical LED displays." alt="" coords="203,56,323,83"/>
+<area shape="rect" id="node5" href="$led__mcal_8c.html#a3a4402754aae2147b7be2064ae4cdc33" title="Update a single logical row (for partial refresh)." alt="" coords="188,107,339,133"/>
+<area shape="rect" id="node3" href="$hw__display_8c.html#af99f55fbcdfa4a52440cba269d46a950" title=" " alt="" coords="5,5,140,32"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="sys_settings_init" name="sys_settings_init">
+<area shape="rect" id="node1" title=" " alt="" coords="5,56,136,83"/>
+<area shape="rect" id="node2" href="$hw__store_8c.html#a55a0a1b5fbc2c8d978aa88bd082d6c0e" title=" " alt="" coords="184,31,352,57"/>
+<area shape="rect" id="node7" href="$sys__settings_8c.html#adad744d64864999a930aaaa4fc5b01ee" title=" " alt="" coords="189,81,347,108"/>
+<area shape="rect" id="node3" href="$file__drv_8c.html#a6bbef2575d9d7004f369f496e2c60777" title=" " alt="" coords="400,31,565,57"/>
+<area shape="rect" id="node4" href="$file__drv_8c.html#a7b37c7b1961b4e955d26f44c528a6d35" title=" " alt="" coords="613,5,747,32"/>
+<area shape="rect" id="node6" href="$file__drv_8c.html#aa0ff4379fa0c0b650462dbee86b1d79f" title=" " alt="" coords="627,56,733,83"/>
+<area shape="rect" id="node5" href="$utils__crc_8c.html#a3969f8435f9bfb501ea9d00309b91c9e" title="Compute a 16&#45;bit CRC (CRC&#45;16/CCITT&#45;FALSE variant)." alt="" coords="795,5,852,32"/>
+</map>

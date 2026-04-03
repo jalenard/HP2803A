@@ -1,0 +1,8 @@
+<map id="system/config.c" name="system/config.c">
+<area shape="rect" id="node1" title="Default values and management functions for system settings." alt="" coords="23,5,147,32"/>
+<area shape="rect" id="node2" title=" " alt="" coords="5,80,72,107"/>
+<area shape="rect" id="node3" href="$config_8h.html" title="Provides storage and management for system settings." alt="" coords="97,80,170,107"/>
+<area shape="rect" id="node4" href="$config__types_8h.html" title=" " alt="" coords="6,155,122,181"/>
+<area shape="rect" id="node6" href="$menu__types_8h.html" title="Defines types and data structures for the hierarchical menu system." alt="" coords="147,155,261,181"/>
+<area shape="rect" id="node5" title=" " alt="" coords="98,229,169,256"/>
+</map>

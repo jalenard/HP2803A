@@ -1,0 +1,10 @@
+<map id="core/cor_brt_actions.h" name="core/cor_brt_actions.h">
+<area shape="rect" id="node1" title=" " alt="" coords="336,5,501,32"/>
+<area shape="rect" id="node2" href="$sys__settings_8h.html" title="Provides storage and management for system settings." alt="" coords="177,80,292,107"/>
+<area shape="rect" id="node4" href="$sys__settings__types_8h.html" title=" " alt="" coords="302,155,461,181"/>
+<area shape="rect" id="node7" href="$cor__core__types_8h.html" title="Defines type aliases and data structures for system settings." alt="" coords="405,80,537,107"/>
+<area shape="rect" id="node8" href="$utils_8h.html" title=" " alt="" coords="561,80,623,107"/>
+<area shape="rect" id="node3" title=" " alt="" coords="5,155,88,181"/>
+<area shape="rect" id="node6" href="$cor__menu__types_8h.html" title="Defines types and data structures for the hierarchical menu system." alt="" coords="112,155,253,181"/>
+<area shape="rect" id="node5" title=" " alt="" coords="405,229,475,256"/>
+</map>

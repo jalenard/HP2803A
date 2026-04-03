@@ -1,0 +1,10 @@
+<map id="hardware/a64/file_drv.c" name="hardware/a64/file_drv.c">
+<area shape="rect" id="node1" title="Binary file&#45;based emulation of non&#45;volatile storage for A64." alt="" coords="135,5,308,32"/>
+<area shape="rect" id="node2" title=" " alt="" coords="105,155,188,181"/>
+<area shape="rect" id="node3" title=" " alt="" coords="117,80,184,107"/>
+<area shape="rect" id="node4" href="$sys__settings__types_8h.html" title=" " alt="" coords="362,155,521,181"/>
+<area shape="rect" id="node6" href="$utils__crc_8h.html" title=" " alt="" coords="5,80,93,107"/>
+<area shape="rect" id="node7" href="$file__drv_8h.html" title="Low&#45;level file&#45;backed persistent storage driver." alt="" coords="259,80,341,107"/>
+<area shape="rect" id="node5" title=" " alt="" coords="190,229,261,256"/>
+<area shape="rect" id="node8" title=" " alt="" coords="263,155,337,181"/>
+</map>

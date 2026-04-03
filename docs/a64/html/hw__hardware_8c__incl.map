@@ -1,0 +1,9 @@
+<map id="hardware/hw_hardware.c" name="hardware/hw_hardware.c">
+<area shape="rect" id="node1" title=" " alt="" coords="233,5,419,32"/>
+<area shape="rect" id="node2" href="$hw__display_8h.html" title=" " alt="" coords="5,80,111,107"/>
+<area shape="rect" id="node4" href="$gpio__mcal_8h.html" title=" " alt="" coords="135,80,237,107"/>
+<area shape="rect" id="node5" href="$interrupt__mcal_8h.html" title=" " alt="" coords="261,80,391,107"/>
+<area shape="rect" id="node6" href="$usart__mcal_8h.html" title=" " alt="" coords="415,80,522,107"/>
+<area shape="rect" id="node7" href="$hw__hardware_8h.html" title=" " alt="" coords="547,80,668,107"/>
+<area shape="rect" id="node3" title=" " alt="" coords="151,155,221,181"/>
+</map>

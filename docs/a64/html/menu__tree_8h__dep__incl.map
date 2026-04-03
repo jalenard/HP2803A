@@ -1,0 +1,6 @@
+<map id="core/menu_tree.h" name="core/menu_tree.h">
+<area shape="rect" id="node1" title="Declarations of the menu text and menu node arrays for the navigation system." alt="" coords="161,5,297,32"/>
+<area shape="rect" id="node2" href="$menu__nav_8c.html" title=" " alt="" coords="5,80,137,107"/>
+<area shape="rect" id="node3" href="$menu__tree_8c.html" title=" " alt="" coords="161,80,296,107"/>
+<area shape="rect" id="node4" href="$svc__display_8c.html" title="Display service built on top of view_buf." alt="" coords="321,80,486,107"/>
+</map>

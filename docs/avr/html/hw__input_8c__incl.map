@@ -1,0 +1,11 @@
+<map id="hardware/avr/hw_input.c" name="hardware/avr/hw_input.c">
+<area shape="rect" id="node1" title=" " alt="" coords="18,5,201,32"/>
+<area shape="rect" id="node2" title=" " alt="" coords="5,80,72,107"/>
+<area shape="rect" id="node3" href="$hw__input_8h.html" title=" " alt="" coords="63,155,156,181"/>
+<area shape="rect" id="node5" href="$input__mcal_8h.html" title=" " alt="" coords="147,80,253,107"/>
+<area shape="rect" id="node4" title=" " alt="" coords="66,229,137,256"/>
+<area shape="rect" id="node6" title=" " alt="" coords="161,229,244,256"/>
+<area shape="rect" id="node7" href="$input__volatile_8h.html" title=" " alt="" coords="233,155,356,181"/>
+<area shape="rect" id="node9" href="$timer__mcal_8h.html" title="Initializes Timer 0 (periodic debounce tick) and Timer 1 (1 Hz base timer)." alt="" coords="381,155,489,181"/>
+<area shape="rect" id="node8" href="$gpio__defs_8h.html" title=" " alt="" coords="269,229,366,256"/>
+</map>

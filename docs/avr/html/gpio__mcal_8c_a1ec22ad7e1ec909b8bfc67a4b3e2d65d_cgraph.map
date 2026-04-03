@@ -1,0 +1,10 @@
+<map id="init_setup_ports" name="init_setup_ports">
+<area shape="rect" id="node1" title=" " alt="" coords="5,119,132,145"/>
+<area shape="rect" id="node2" href="$gpio__mcal_8c.html#a9cdb8225280c6c2bbbb52a3d65dbbada" title=" " alt="" coords="180,80,328,107"/>
+<area shape="rect" id="node3" href="$error_8c.html#a658e219270edbf3ebd079edf440e1d36" title=" " alt="" coords="376,105,467,132"/>
+<area shape="rect" id="node4" href="$hardware_8c.html#a47191dfa6786da2498eb49ae28f8d361" title=" " alt="" coords="515,195,625,221"/>
+<area shape="rect" id="node5" href="$display_8c.html#a8f13ebf7c4947f740dc126d2ed99135b" title=" " alt="" coords="686,245,817,272"/>
+<area shape="rect" id="node8" href="$interrupt__mcal_8c.html#a9d2e720f145941f735678e570dc6786b" title=" " alt="" coords="673,195,829,221"/>
+<area shape="rect" id="node6" href="$led_8c.html#aa2961bc0eb130ceeda831246301dadf9" title=" " alt="" coords="877,144,991,171"/>
+<area shape="rect" id="node7" href="$toggle_8c.html#ac53495894beb927820d9ed7580528a99" title=" " alt="" coords="1039,93,1151,120"/>
+</map>

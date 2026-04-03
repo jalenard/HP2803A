@@ -1,0 +1,7 @@
+<map id="system/sys_store.h" name="system/sys_store.h">
+<area shape="rect" id="node1" title="System&#45;level persistent storage interface (platform&#45;neutral)." alt="" coords="113,5,261,32"/>
+<area shape="rect" id="node2" title=" " alt="" coords="5,80,88,107"/>
+<area shape="rect" id="node3" title=" " alt="" coords="112,80,187,107"/>
+<area shape="rect" id="node4" title=" " alt="" coords="247,155,318,181"/>
+<area shape="rect" id="node5" href="$sys__settings__types_8h.html" title=" " alt="" coords="262,80,421,107"/>
+</map>

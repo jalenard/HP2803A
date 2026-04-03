@@ -1,0 +1,19 @@
+<map id="ui_input_edit_number" name="ui_input_edit_number">
+<area shape="rect" id="node1" title=" " alt="" coords="5,157,168,184"/>
+<area shape="rect" id="node2" href="$ui__input_8c.html#a67c8f4671764c4b93435fd76cec240cc" title=" " alt="" coords="613,5,757,32"/>
+<area shape="rect" id="node3" href="$ui__input_8c.html#a0912892659c94a86c26cd68d8ac4552f" title=" " alt="" coords="216,107,373,133"/>
+<area shape="rect" id="node12" href="$ui__input_8c.html#ae5f0041d35fad14aeef34775849d6cbb" title=" " alt="" coords="227,157,362,184"/>
+<area shape="rect" id="node16" href="$utils_8c.html#ae69baf838a7a2b34948c4fd8bca3d9f0" title=" " alt="" coords="226,208,363,235"/>
+<area shape="rect" id="node17" href="$utils_8c.html#a64b983e5e2403f22976032e6d1aceef2" title=" " alt="" coords="226,259,363,285"/>
+<area shape="rect" id="node4" href="$ui__input_8c.html#a3a56b7723df36bebc9d161a8712a2484" title=" " alt="" coords="429,31,557,57"/>
+<area shape="rect" id="node5" href="$view_8c.html#ab73ce6980962aaf7e28347f43e022e56" title=" " alt="" coords="447,81,539,108"/>
+<area shape="rect" id="node6" href="$view_8c.html#ac175f9693e2fe601c391f4a0432a79a8" title=" " alt="" coords="437,132,548,159"/>
+<area shape="rect" id="node7" href="$view_8c.html#acba9c78781bca4adf755759c73cc96ad" title=" " alt="" coords="440,183,545,209"/>
+<area shape="rect" id="node8" href="$hw__display_8c.html#a4302a710b85a7561bdffe0fd45b8f006" title=" " alt="" coords="612,183,759,209"/>
+<area shape="rect" id="node9" href="$stdout_8c.html#ad777f8236d7eb9b195aff18655a9bf72" title=" " alt="" coords="808,183,923,209"/>
+<area shape="rect" id="node10" href="$stdout_8c.html#a82b8ec617e9db46b895e639aa7159cd9" title=" " alt="" coords="994,157,1097,184"/>
+<area shape="rect" id="node11" href="$stdout_8c.html#a546db5a98df1b7f7c0bca780f974d5d9" title=" " alt="" coords="972,208,1119,235"/>
+<area shape="rect" id="node13" href="$hw__input_8c.html#a265a3e8d1e44afeea0001ff570e07b38" title=" " alt="" coords="421,233,564,260"/>
+<area shape="rect" id="node14" href="$stdin_8c.html#a2aa1dd16876d53e7f41045e2363de365" title=" " alt="" coords="628,233,743,260"/>
+<area shape="rect" id="node15" href="$stdin_8c.html#a819be236d59ea35aae5f46a7fc01cc38" title=" " alt="" coords="807,233,924,260"/>
+</map>

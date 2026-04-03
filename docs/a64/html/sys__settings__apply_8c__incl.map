@@ -1,0 +1,10 @@
+<map id="system/sys_settings_apply.c" name="system/sys_settings_apply.c">
+<area shape="rect" id="node1" title=" " alt="" coords="188,5,343,47"/>
+<area shape="rect" id="node2" title=" " alt="" coords="5,169,88,196"/>
+<area shape="rect" id="node3" href="$sys__settings_8h.html" title="Provides storage and management for system settings." alt="" coords="113,95,228,121"/>
+<area shape="rect" id="node4" href="$sys__settings__types_8h.html" title=" " alt="" coords="302,169,461,196"/>
+<area shape="rect" id="node7" href="$sys__settings__apply_8h.html" title=" " alt="" coords="303,95,459,121"/>
+<area shape="rect" id="node8" href="$hw__sample_8h.html" title=" " alt="" coords="483,95,591,121"/>
+<area shape="rect" id="node6" href="$cor__menu__types_8h.html" title="Defines types and data structures for the hierarchical menu system." alt="" coords="112,169,253,196"/>
+<area shape="rect" id="node5" title=" " alt="" coords="246,244,317,271"/>
+</map>

@@ -1,0 +1,18 @@
+<map id="core/menu_nav.c" name="core/menu_nav.c">
+<area shape="rect" id="node1" title=" " alt="" coords="382,5,514,32"/>
+<area shape="rect" id="node2" title=" " alt="" coords="5,80,80,107"/>
+<area shape="rect" id="node3" title=" " alt="" coords="104,80,171,107"/>
+<area shape="rect" id="node4" href="$sys__settings_8h.html" title="Provides storage and management for system settings." alt="" coords="195,80,309,107"/>
+<area shape="rect" id="node8" href="$svc__input_8h.html" title=" " alt="" coords="532,155,628,181"/>
+<area shape="rect" id="node10" href="$menu__actions_8h.html" title=" " alt="" coords="611,80,736,107"/>
+<area shape="rect" id="node12" href="$menu__tree_8h.html" title="Declarations of the menu text and menu node arrays for the navigation system." alt="" coords="333,80,437,107"/>
+<area shape="rect" id="node13" href="$menu__nav_8h.html" title=" " alt="" coords="461,80,563,107"/>
+<area shape="rect" id="node14" href="$svc__display_8h.html" title="Display service interface built on top of view_buf." alt="" coords="811,80,919,107"/>
+<area shape="rect" id="node5" href="$settings__types_8h.html" title=" " alt="" coords="235,229,365,256"/>
+<area shape="rect" id="node7" href="$menu__types_8h.html" title="Defines types and data structures for the hierarchical menu system." alt="" coords="363,155,477,181"/>
+<area shape="rect" id="node6" title=" " alt="" coords="553,304,623,331"/>
+<area shape="rect" id="node9" href="$hw__input_8h.html" title=" " alt="" coords="457,229,551,256"/>
+<area shape="rect" id="node11" href="$core__types_8h.html" title="Defines type aliases and data structures for system settings." alt="" coords="626,229,731,256"/>
+<area shape="rect" id="node15" href="$view_8h.html" title=" " alt="" coords="832,155,896,181"/>
+<area shape="rect" id="node16" href="$hw__display_8h.html" title=" " alt="" coords="811,229,917,256"/>
+</map>

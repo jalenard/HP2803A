@@ -1,0 +1,7 @@
+<map id="services/svc_counters.c" name="services/svc_counters.c">
+<area shape="rect" id="node1" title="Service layer wrapper for hardware counter operations." alt="" coords="73,5,249,32"/>
+<area shape="rect" id="node2" title=" " alt="" coords="47,155,129,181"/>
+<area shape="rect" id="node3" title=" " alt="" coords="201,155,271,181"/>
+<area shape="rect" id="node4" href="$counters__mcal_8h.html" title=" " alt="" coords="23,80,153,107"/>
+<area shape="rect" id="node5" href="$svc__counters_8h.html" title="Service layer interface for reading and controlling counters." alt="" coords="177,80,295,107"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="core/cor_probe_db.h" name="core/cor_probe_db.h">
+<area shape="rect" id="node1" title=" " alt="" coords="349,5,503,32"/>
+<area shape="rect" id="node2" href="$app__init_8c.html" title=" " alt="" coords="5,80,119,107"/>
+<area shape="rect" id="node3" href="$cor__menu__actions_8c.html" title=" " alt="" coords="143,80,325,107"/>
+<area shape="rect" id="node4" href="$cor__probe__db_8c.html" title=" " alt="" coords="350,80,502,107"/>
+<area shape="rect" id="node5" href="$cor__probe__edit_8c.html" title=" " alt="" coords="527,80,688,107"/>
+<area shape="rect" id="node6" href="$cor__temp__compute_8c.html" title=" " alt="" coords="712,80,903,107"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="hardware/avr/display_hal.c" name="hardware/avr/display_hal.c">
+<area shape="rect" id="node1" title=" " alt="" coords="258,5,417,47"/>
+<area shape="rect" id="node2" title=" " alt="" coords="359,169,430,196"/>
+<area shape="rect" id="node3" title=" " alt="" coords="33,95,103,121"/>
+<area shape="rect" id="node4" title=" " alt="" coords="128,95,221,121"/>
+<area shape="rect" id="node5" title=" " alt="" coords="246,95,317,121"/>
+<area shape="rect" id="node6" href="$display__hal_8h.html" title=" " alt="" coords="341,95,449,121"/>
+<area shape="rect" id="node7" href="$error_8h.html" title=" " alt="" coords="473,95,537,121"/>
+<area shape="rect" id="node8" href="$gpio__defs_8h.html" title=" " alt="" coords="562,95,659,121"/>
+<area shape="rect" id="node9" href="$led__mcal_8h.html" title=" " alt="" coords="684,95,777,121"/>
+</map>

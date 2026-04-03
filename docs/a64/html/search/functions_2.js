@@ -1,0 +1,12 @@
+var searchData=
+[
+  ['calc_5fcelsius_5ffrom_5fcount_0',['calc_celsius_from_count',['../cor__temp__compute_8c.html#af47260ef99abf81cb80c5936fff33c1d',1,'calc_celsius_from_count(const uint32_t *counts_in, float *temps_out):&#160;cor_temp_compute.c'],['../cor__temp__compute_8h.html#af47260ef99abf81cb80c5936fff33c1d',1,'calc_celsius_from_count(const uint32_t *counts_in, float *temps_out):&#160;cor_temp_compute.c']]],
+  ['calc_5fsettings_5fcrc_1',['calc_settings_crc',['../file__drv_8c.html#a7b37c7b1961b4e955d26f44c528a6d35',1,'file_drv.c']]],
+  ['convert_5fcelsius_2',['convert_celsius',['../cor__render__views_8c.html#a86a554d9a2d2cadb21b764b109107e11',1,'cor_render_views.c']]],
+  ['cor_5fget_5fcounts_3',['cor_get_counts',['../cor__data__provider_8c.html#a0e67715dfc91fc7afdf076572a30486c',1,'cor_get_counts(void):&#160;cor_data_provider.c'],['../cor__data__provider_8h.html#a0e67715dfc91fc7afdf076572a30486c',1,'cor_get_counts(void):&#160;cor_data_provider.c']]],
+  ['cor_5fget_5fcurrent_5fsettings_4',['cor_get_current_settings',['../cor__data__provider_8c.html#a2e8f20e60ce1c1f990750dd52973b663',1,'cor_get_current_settings(void):&#160;cor_data_provider.c'],['../cor__data__provider_8h.html#a2e8f20e60ce1c1f990750dd52973b663',1,'cor_get_current_settings(void):&#160;cor_data_provider.c']]],
+  ['cor_5fget_5foutput_5fbuf_5fmutable_5',['cor_get_output_buf_mutable',['../cor__data__provider_8c.html#a913a77e5af32f8c3ba2e7853a86368bf',1,'cor_get_output_buf_mutable(void):&#160;cor_data_provider.c'],['../cor__data__provider_8h.html#a913a77e5af32f8c3ba2e7853a86368bf',1,'cor_get_output_buf_mutable(void):&#160;cor_data_provider.c']]],
+  ['cor_5fget_5ftemps_6',['cor_get_temps',['../cor__data__provider_8c.html#a5c704fecbf1eb6201ca43dba3905f648',1,'cor_get_temps(void):&#160;cor_data_provider.c'],['../cor__data__provider_8h.html#a5c704fecbf1eb6201ca43dba3905f648',1,'cor_get_temps(void):&#160;cor_data_provider.c']]],
+  ['crc16_7',['crc16',['../utils__crc_8c.html#a3969f8435f9bfb501ea9d00309b91c9e',1,'crc16(const uint8_t *data, uint16_t len):&#160;utils_crc.c'],['../utils__crc_8h.html#a3969f8435f9bfb501ea9d00309b91c9e',1,'crc16(const uint8_t *data, uint16_t len):&#160;utils_crc.c']]],
+  ['crc8_8',['crc8',['../utils__crc_8c.html#a9d05266bcb1f6c3401221f413c8fc7c0',1,'crc8(const uint8_t *data, uint16_t len):&#160;utils_crc.c'],['../utils__crc_8h.html#a9d05266bcb1f6c3401221f413c8fc7c0',1,'crc8(const uint8_t *data, uint16_t len):&#160;utils_crc.c']]]
+];

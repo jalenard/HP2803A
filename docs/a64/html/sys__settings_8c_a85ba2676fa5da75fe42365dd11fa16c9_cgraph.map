@@ -1,0 +1,9 @@
+<map id="save_current_settings" name="save_current_settings">
+<area shape="rect" id="node1" title=" " alt="" coords="5,56,171,83"/>
+<area shape="rect" id="node2" href="$hw__store_8c.html#a3ea60a9f03384591a7b0d11e0c24e8c3" title=" " alt="" coords="219,56,399,83"/>
+<area shape="rect" id="node3" href="$file__drv_8c.html#a3ac5d0b72a642b14988a87824959c476" title=" " alt="" coords="447,56,616,83"/>
+<area shape="rect" id="node4" href="$file__drv_8c.html#a7b37c7b1961b4e955d26f44c528a6d35" title=" " alt="" coords="664,5,797,32"/>
+<area shape="rect" id="node6" href="$file__drv_8c.html#a8e03ff3a710a467bde1fd6f5bdb60e9d" title=" " alt="" coords="667,56,794,83"/>
+<area shape="rect" id="node7" href="$file__drv_8c.html#a9e365ad669dce629cc990155889b9bcf" title=" " alt="" coords="675,107,786,133"/>
+<area shape="rect" id="node5" href="$utils__crc_8c.html#a3969f8435f9bfb501ea9d00309b91c9e" title="Compute a 16&#45;bit CRC (CRC&#45;16/CCITT&#45;FALSE variant)." alt="" coords="845,5,903,32"/>
+</map>

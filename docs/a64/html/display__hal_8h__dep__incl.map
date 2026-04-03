@@ -1,0 +1,6 @@
+<map id="hardware/a64/display_hal.h" name="hardware/a64/display_hal.h">
+<area shape="rect" id="node1" title=" " alt="" coords="217,5,379,47"/>
+<area shape="rect" id="node2" href="$hw__hardware_8c.html" title=" " alt="" coords="5,95,191,121"/>
+<area shape="rect" id="node3" href="$svc__display_8c.html" title=" " alt="" coords="215,95,381,121"/>
+<area shape="rect" id="node4" href="$svc__output_8c.html" title=" " alt="" coords="405,95,567,121"/>
+</map>

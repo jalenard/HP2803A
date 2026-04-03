@@ -1,0 +1,8 @@
+<map id="hardware/avr/error.h" name="hardware/avr/error.h">
+<area shape="rect" id="node1" title=" " alt="" coords="404,5,559,32"/>
+<area shape="rect" id="node2" href="$counters__mcal_8c.html" title=" " alt="" coords="5,80,173,121"/>
+<area shape="rect" id="node3" href="$gpio__utils_8c.html" title=" " alt="" coords="197,87,384,114"/>
+<area shape="rect" id="node4" href="$input__mcal_8c.html" title=" " alt="" coords="409,80,554,121"/>
+<area shape="rect" id="node5" href="$led__mcal_8c.html" title=" " alt="" coords="578,87,761,114"/>
+<area shape="rect" id="node6" href="$usart__mcal_8c.html" title=" " alt="" coords="785,80,930,121"/>
+</map>

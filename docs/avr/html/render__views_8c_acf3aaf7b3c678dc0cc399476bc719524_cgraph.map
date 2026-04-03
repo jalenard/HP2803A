@@ -1,0 +1,13 @@
+<map id="render_base_view" name="render_base_view">
+<area shape="rect" id="node1" title=" " alt="" coords="5,183,145,209"/>
+<area shape="rect" id="node2" href="$render__views_8c.html#a86a554d9a2d2cadb21b764b109107e11" title=" " alt="" coords="213,5,335,32"/>
+<area shape="rect" id="node3" href="$render__views_8c.html#aa068d3171827e0b4bf7bf535d3259a0b" title=" " alt="" coords="193,56,355,83"/>
+<area shape="rect" id="node5" href="$sys__settings_8c.html#a4fa2ca19fe5589dc5ade25969e75dc71" title=" " alt="" coords="403,107,557,133"/>
+<area shape="rect" id="node6" href="$render__views_8c.html#a5174f395bc68fc31259fcc5e179afa05" title=" " alt="" coords="217,157,331,184"/>
+<area shape="rect" id="node7" href="$render__views_8c.html#a2fa848a74dce42bd9330519beb50ae1a" title=" " alt="" coords="195,208,353,235"/>
+<area shape="rect" id="node9" href="$utils_8c.html#a4c885d2e936b130c9ce828a3fa32f420" title=" " alt="" coords="205,259,343,285"/>
+<area shape="rect" id="node10" href="$view_8c.html#ab73ce6980962aaf7e28347f43e022e56" title=" " alt="" coords="228,309,320,336"/>
+<area shape="rect" id="node11" href="$view_8c.html#ad34b4ebd13aceeb87cbe1445f0f84acc" title=" " alt="" coords="219,360,329,387"/>
+<area shape="rect" id="node4" href="$sys__counters_8c.html#a67190493a6bd337cdd2d6bc50cc8d018" title=" " alt="" coords="437,56,523,83"/>
+<area shape="rect" id="node8" href="$svc__temperature_8c.html#a6a2e9080f6852205ddb01b74490ff9c8" title=" " alt="" coords="438,208,522,235"/>
+</map>

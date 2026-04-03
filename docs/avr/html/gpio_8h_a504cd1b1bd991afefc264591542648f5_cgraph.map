@@ -1,0 +1,4 @@
+<map id="gpio_a_write" name="gpio_a_write">
+<area shape="rect" id="node1" title=" " alt="" coords="5,5,111,32"/>
+<area shape="rect" id="node2" href="$gpio_8c.html#a06da220b69557e4a0027f66559b9eb80" title="Update selected bits of PORTA without affecting other bits." alt="" coords="159,5,321,32"/>
+</map>

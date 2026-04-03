@@ -1,0 +1,6 @@
+<map id="compute_temperature" name="compute_temperature">
+<area shape="rect" id="node1" title=" " alt="" coords="5,56,172,83"/>
+<area shape="rect" id="node2" href="$sys__counters_8c.html#a67190493a6bd337cdd2d6bc50cc8d018" title=" " alt="" coords="254,5,341,32"/>
+<area shape="rect" id="node3" href="$svc__temperature_8c.html#a6a2e9080f6852205ddb01b74490ff9c8" title=" " alt="" coords="255,56,339,83"/>
+<area shape="rect" id="node4" href="$temp__compute_8c.html#a776e54e4098873c551ac4c70983c1122" title=" " alt="" coords="220,107,375,133"/>
+</map>

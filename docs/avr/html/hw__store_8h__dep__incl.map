@@ -1,0 +1,6 @@
+<map id="hardware/hw_store.h" name="hardware/hw_store.h">
+<area shape="rect" id="node1" title="Hardware abstraction for persistent storage." alt="" coords="216,5,375,32"/>
+<area shape="rect" id="node2" href="$hw__store_8c.html" title="AVR implementation of persistent storage backend." alt="" coords="5,80,188,107"/>
+<area shape="rect" id="node3" href="$sys__settings_8c.html" title="Default values and management functions for system settings." alt="" coords="212,80,379,107"/>
+<area shape="rect" id="node4" href="$sys__store_8c.html" title="System&#45;level abstraction over hardware persistent storage." alt="" coords="403,80,550,107"/>
+</map>

@@ -1,0 +1,14 @@
+<map id="hardware/avr/gpio_defs.h" name="hardware/avr/gpio_defs.h">
+<area shape="rect" id="node1" title=" " alt="" coords="628,5,815,32"/>
+<area shape="rect" id="node2" href="$counters__mcal_8c.html" title=" " alt="" coords="5,80,173,121"/>
+<area shape="rect" id="node3" href="$gpio__mcal_8c.html" title=" " alt="" coords="198,87,389,114"/>
+<area shape="rect" id="node4" href="$gpio__utils_8c.html" title=" " alt="" coords="413,87,600,114"/>
+<area shape="rect" id="node5" href="$hw__display_8c.html" title=" " alt="" coords="624,87,819,114"/>
+<area shape="rect" id="node6" href="$input__mcal_8c.html" title=" " alt="" coords="625,259,770,300"/>
+<area shape="rect" id="node7" href="$input__volatile_8h.html" title=" " alt="" coords="894,80,1039,121"/>
+<area shape="rect" id="node12" href="$led__mcal_8c.html" title=" " alt="" coords="1063,87,1246,114"/>
+<area shape="rect" id="node8" href="$input__mcal_8h.html" title=" " alt="" coords="894,169,1039,211"/>
+<area shape="rect" id="node11" href="$timer__mcal_8c.html" title=" " alt="" coords="1224,259,1371,300"/>
+<area shape="rect" id="node9" href="$hw__hardware__init_8c.html" title=" " alt="" coords="794,259,993,300"/>
+<area shape="rect" id="node10" href="$hw__input_8c.html" title=" " alt="" coords="1017,266,1199,293"/>
+</map>
