@@ -3,6 +3,9 @@
 # A64 build script for layered project
 #==================================================
 
+# Run from repository root:
+#   ./scripts/build_a64.sh
+
 set -euo pipefail
 
 # Compiler flags
@@ -42,8 +45,8 @@ for d in "${COMMON_DIRS[@]}"; do
 done
 
 # Output executable
-OUTDIR=build
-OUT=$OUTDIR/prog
+OUTDIR=build/a64
+OUT=$OUTDIR/hp2803a
 
 mkdir -p "$OUTDIR"
 

@@ -3,6 +3,9 @@
 # AVR build script for layered project
 #==================================================
 
+# Run from repository root:
+#   ./scripts/build_avr.sh
+
 set -euo pipefail
 
 # MCU and CPU frequency
@@ -52,9 +55,9 @@ for d in "${COMMON_DIRS[@]}"; do
 done
 
 # Output files
-OUTDIR=build
-ELF=$OUTDIR/prog.elf
-HEX=$OUTDIR/prog.hex
+OUTDIR=build/avr
+ELF=$OUTDIR/hp2803a.elf
+HEX=$OUTDIR/hp2803a.hex
 
 mkdir -p "$OUTDIR"
 
