@@ -23,6 +23,3 @@ prog
 *.swp
 *.swo
 .DS_Store
-
-# Mistaken HP2803A/HP2803A-docs folder
-/HP2803A-docs/
