@@ -1,8 +1,0 @@
-<map id="services/settings.c" name="services/settings.c">
-<area shape="rect" id="node1" title="Initialize system settings from previously saved values." alt="" coords="113,5,256,32"/>
-<area shape="rect" id="node2" href="$config_8h.html" title="Provides storage and management for system settings." alt="" coords="96,80,169,107"/>
-<area shape="rect" id="node6" href="$settings_8h.html" title=" " alt="" coords="193,80,280,107"/>
-<area shape="rect" id="node3" href="$config__types_8h.html" title=" " alt="" coords="5,155,121,181"/>
-<area shape="rect" id="node5" href="$menu__types_8h.html" title="Defines types and data structures for the hierarchical menu system." alt="" coords="146,155,261,181"/>
-<area shape="rect" id="node4" title=" " alt="" coords="97,229,168,256"/>
-</map>

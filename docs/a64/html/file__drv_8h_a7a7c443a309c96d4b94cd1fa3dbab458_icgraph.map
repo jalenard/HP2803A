@@ -1,8 +1,0 @@
-<map id="file_drv_init" name="file_drv_init">
-<area shape="rect" id="node1" title=" " alt="" coords="427,31,525,57"/>
-<area shape="rect" id="node2" href="$hw__hardware__init_8c.html#a47191dfa6786da2498eb49ae28f8d361" title=" " alt="" coords="268,5,379,32"/>
-<area shape="rect" id="node5" href="$hw__store_8c.html#a3548bdac950c4dbf0551d521b02b0a99" title=" " alt="" coords="269,56,378,83"/>
-<area shape="rect" id="node3" href="$sys__init_8c.html#a43f5e0d6db0fb41a437cc9096b32e9b5" title=" " alt="" coords="115,5,213,32"/>
-<area shape="rect" id="node4" href="$main_8c.html#ae66f6b31b5ad750f1fe042a706a4e3d4" title=" " alt="" coords="5,5,60,32"/>
-<area shape="rect" id="node6" href="$sys__store_8c.html#a49f37b0811f6c633959fd9e3d1b45b11" title=" " alt="" coords="108,56,220,83"/>
-</map>

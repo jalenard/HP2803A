@@ -1,7 +1,0 @@
-<map id="hardware/avr/hw_display.c" name="hardware/avr/hw_display.c">
-<area shape="rect" id="node1" title=" " alt="" coords="82,5,277,32"/>
-<area shape="rect" id="node2" href="$gpio__defs_8h.html" title=" " alt="" coords="5,80,103,107"/>
-<area shape="rect" id="node3" href="$hw__display_8h.html" title=" " alt="" coords="127,80,232,107"/>
-<area shape="rect" id="node5" href="$led__mcal_8h.html" title=" " alt="" coords="257,80,350,107"/>
-<area shape="rect" id="node4" title=" " alt="" coords="205,155,276,181"/>
-</map>

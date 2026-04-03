@@ -1,4 +1,0 @@
-<map id="hardware/avr/gpio.h" name="hardware/avr/gpio.h">
-<area shape="rect" id="node1" title="Provides safe masked writes to AVR ports using shadow registers." alt="" coords="5,5,157,32"/>
-<area shape="rect" id="node2" title=" " alt="" coords="46,80,117,107"/>
-</map>

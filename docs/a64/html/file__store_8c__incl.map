@@ -1,8 +1,0 @@
-<map id="hardware/a64/file_store.c" name="hardware/a64/file_store.c">
-<area shape="rect" id="node1" title="Binary file&#45;based emulation of non&#45;volatile storage for A64." alt="" coords="5,5,192,32"/>
-<area shape="rect" id="node2" title=" " alt="" coords="13,80,80,107"/>
-<area shape="rect" id="node3" href="$file__store_8h.html" title="Low&#45;level file&#45;backed persistent storage driver for A64." alt="" coords="105,80,199,107"/>
-<area shape="rect" id="node4" title=" " alt="" coords="8,155,91,181"/>
-<area shape="rect" id="node5" title=" " alt="" coords="115,155,189,181"/>
-<area shape="rect" id="node6" title=" " alt="" coords="214,155,285,181"/>
-</map>

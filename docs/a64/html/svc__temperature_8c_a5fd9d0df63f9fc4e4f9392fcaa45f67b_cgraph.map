@@ -1,8 +1,0 @@
-<map id="show_temperature" name="show_temperature">
-<area shape="rect" id="node1" title=" " alt="" coords="5,56,149,83"/>
-<area shape="rect" id="node2" href="$svc__temperature_8c.html#a6a2e9080f6852205ddb01b74490ff9c8" title=" " alt="" coords="229,5,313,32"/>
-<area shape="rect" id="node3" href="$ui__display_8c.html#a3cbf053b3a6501c4f1000d58962312d4" title=" " alt="" coords="197,56,345,83"/>
-<area shape="rect" id="node4" href="$ui__display_8c.html#aa1e78901f7aa5003ba85272eccb88f4d" title=" " alt="" coords="201,107,341,133"/>
-<area shape="rect" id="node5" href="$hw__display_8c.html#a2bcc5f2411ce41ffd65525b42eb7a3a1" title=" " alt="" coords="393,107,515,133"/>
-<area shape="rect" id="node6" href="$ui__display_8c.html#a4d90fe41b917f4d0235717ca0c54afd4" title=" " alt="" coords="563,107,681,133"/>
-</map>

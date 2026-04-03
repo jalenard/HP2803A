@@ -1,6 +1,0 @@
-<map id="sys_eeprom_write" name="sys_eeprom_write">
-<area shape="rect" id="node1" title="Write settings to EEPROM with CRC and magic header." alt="" coords="5,31,147,57"/>
-<area shape="rect" id="node2" href="$sys__eeprom_8c.html#a7f8fbdbb4d3ba4e472009f0e5ae49687" title=" " alt="" coords="221,5,326,32"/>
-<area shape="rect" id="node4" href="$hw__eeprom_8c.html#a8846f10f2a7fb15a2d58e483bd073315" title=" " alt="" coords="195,56,352,83"/>
-<area shape="rect" id="node3" href="$sys__crc16_8c.html#ac46dfcdcec9e983665a03956619fd129" title=" " alt="" coords="400,5,492,32"/>
-</map>

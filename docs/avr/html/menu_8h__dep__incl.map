@@ -1,7 +1,0 @@
-<map id="core/avr/menu.h" name="core/avr/menu.h">
-<area shape="rect" id="node1" title=" " alt="" coords="222,5,350,32"/>
-<area shape="rect" id="node2" href="$menu_8c.html" title=" " alt="" coords="5,80,132,107"/>
-<area shape="rect" id="node3" href="$tempr_8c.html" title=" " alt="" coords="156,80,259,107"/>
-<area shape="rect" id="node4" href="$svc__display_8c.html" title=" " alt="" coords="283,80,449,107"/>
-<area shape="rect" id="node5" href="$svc__output_8c.html" title=" " alt="" coords="473,80,635,107"/>
-</map>

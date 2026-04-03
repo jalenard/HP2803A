@@ -1,9 +1,0 @@
-<map id="hardware/avr/hw_store.c" name="hardware/avr/hw_store.c">
-<area shape="rect" id="node1" title="AVR implementation of persistent storage backend." alt="" coords="152,5,335,32"/>
-<area shape="rect" id="node2" title=" " alt="" coords="239,155,322,181"/>
-<area shape="rect" id="node3" href="$sys__settings__types_8h.html" title=" " alt="" coords="5,155,164,181"/>
-<area shape="rect" id="node5" href="$hw__store_8h.html" title="Hardware abstraction for persistent storage." alt="" coords="155,80,249,107"/>
-<area shape="rect" id="node7" href="$eeprom__drv_8h.html" title="Low&#45;level AVR EEPROM access driver." alt="" coords="325,80,436,107"/>
-<area shape="rect" id="node4" title=" " alt="" coords="167,229,237,256"/>
-<area shape="rect" id="node6" title=" " alt="" coords="346,155,421,181"/>
-</map>

@@ -1,8 +1,0 @@
-<map id="timer_get_timebase" name="timer_get_timebase">
-<area shape="rect" id="node1" title=" " alt="" coords="676,31,829,57"/>
-<area shape="rect" id="node2" href="$hw__sample_8c.html#ab748312b2fbacd4884a5a6380ebe2e11" title=" " alt="" coords="493,5,628,32"/>
-<area shape="rect" id="node3" href="$timer_8c.html#a102f7f9e731392bfc5698bb4d90fcf0b" title=" " alt="" coords="494,56,627,83"/>
-<area shape="rect" id="node4" href="$hw__counters_8c.html#ad59f1ed9103d0da9ac484bd018a53fa4" title=" " alt="" coords="305,56,445,83"/>
-<area shape="rect" id="node5" href="$sys__counters_8c.html#a9ae7fafb7c97581d185bfd434b508f2a" title=" " alt="" coords="108,56,257,83"/>
-<area shape="rect" id="node6" href="$main_8c.html#ae66f6b31b5ad750f1fe042a706a4e3d4" title=" " alt="" coords="5,56,60,83"/>
-</map>

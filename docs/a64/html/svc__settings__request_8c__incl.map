@@ -1,9 +1,0 @@
-<map id="services/svc_settings_request.c" name="services/svc_settings_request.c">
-<area shape="rect" id="node1" title=" " alt="" coords="190,5,351,47"/>
-<area shape="rect" id="node2" href="$svc__settings__request_8h.html" title=" " alt="" coords="5,95,176,121"/>
-<area shape="rect" id="node3" href="$settings__types_8h.html" title=" " alt="" coords="265,169,394,196"/>
-<area shape="rect" id="node5" href="$sys__settings_8h.html" title="Provides storage and management for system settings." alt="" coords="432,95,547,121"/>
-<area shape="rect" id="node7" href="$sys__settings__apply_8h.html" title=" " alt="" coords="251,95,407,121"/>
-<area shape="rect" id="node4" title=" " alt="" coords="374,244,445,271"/>
-<area shape="rect" id="node6" href="$cor__menu__types_8h.html" title="Defines types and data structures for the hierarchical menu system." alt="" coords="419,169,560,196"/>
-</map>

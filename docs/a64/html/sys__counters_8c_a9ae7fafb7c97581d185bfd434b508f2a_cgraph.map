@@ -1,7 +1,0 @@
-<map id="read_measurement" name="read_measurement">
-<area shape="rect" id="node1" title=" " alt="" coords="5,31,155,57"/>
-<area shape="rect" id="node2" href="$hw__counters_8c.html#ad59f1ed9103d0da9ac484bd018a53fa4" title=" " alt="" coords="203,31,343,57"/>
-<area shape="rect" id="node3" href="$timer_8c.html#a102f7f9e731392bfc5698bb4d90fcf0b" title=" " alt="" coords="391,31,524,57"/>
-<area shape="rect" id="node4" href="$timer_8c.html#a4c13c38ab6dc1430af077769943d4d1b" title=" " alt="" coords="611,5,687,32"/>
-<area shape="rect" id="node5" href="$timer_8c.html#a043f7acb0a2fcfaca611f1192282a0f5" title=" " alt="" coords="572,56,725,83"/>
-</map>

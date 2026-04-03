@@ -1,8 +1,0 @@
-<map id="services/svc_temperature.c" name="services/svc_temperature.c">
-<area shape="rect" id="node1" title=" " alt="" coords="84,5,286,32"/>
-<area shape="rect" id="node2" title=" " alt="" coords="150,155,220,181"/>
-<area shape="rect" id="node3" href="$svc__temperature_8h.html" title=" " alt="" coords="25,80,169,107"/>
-<area shape="rect" id="node4" href="$sys__counters_8h.html" title="Service layer interface for reading and controlling counters." alt="" coords="376,80,495,107"/>
-<area shape="rect" id="node6" href="$cor__temp__compute_8h.html" title=" " alt="" coords="194,80,352,107"/>
-<area shape="rect" id="node5" title=" " alt="" coords="394,155,477,181"/>
-</map>

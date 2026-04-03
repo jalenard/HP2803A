@@ -1,9 +1,0 @@
-<map id="hardware/avr/gpio_mcal.c" name="hardware/avr/gpio_mcal.c">
-<area shape="rect" id="node1" title=" " alt="" coords="84,5,275,32"/>
-<area shape="rect" id="node2" title=" " alt="" coords="124,229,195,256"/>
-<area shape="rect" id="node3" title=" " alt="" coords="28,80,99,107"/>
-<area shape="rect" id="node4" href="$sys__settings__types_8h.html" title=" " alt="" coords="80,155,239,181"/>
-<area shape="rect" id="node5" href="$gpio__defs_8h.html" title=" " alt="" coords="175,80,272,107"/>
-<area shape="rect" id="node6" href="$gpio__mcal_8h.html" title=" " alt="" coords="297,80,398,107"/>
-<area shape="rect" id="node7" href="$gpio__utils_8h.html" title=" " alt="" coords="423,80,520,107"/>
-</map>

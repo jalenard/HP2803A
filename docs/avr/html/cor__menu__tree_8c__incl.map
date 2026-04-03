@@ -1,8 +1,0 @@
-<map id="core/cor_menu_tree.c" name="core/cor_menu_tree.c">
-<area shape="rect" id="node1" title=" " alt="" coords="88,5,251,32"/>
-<area shape="rect" id="node2" title=" " alt="" coords="5,80,80,107"/>
-<area shape="rect" id="node3" href="$cor__menu__tree_8h.html" title=" " alt="" coords="104,80,235,107"/>
-<area shape="rect" id="node6" href="$utils_8h.html" title=" " alt="" coords="277,155,339,181"/>
-<area shape="rect" id="node4" href="$cor__menu__types_8h.html" title="Defines types and data structures for the hierarchical menu system." alt="" coords="87,155,228,181"/>
-<area shape="rect" id="node5" title=" " alt="" coords="197,229,267,256"/>
-</map>

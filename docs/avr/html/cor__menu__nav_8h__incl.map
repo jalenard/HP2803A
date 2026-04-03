@@ -1,7 +1,0 @@
-<map id="core/cor_menu_nav.h" name="core/cor_menu_nav.h">
-<area shape="rect" id="node1" title=" " alt="" coords="63,7,223,33"/>
-<area shape="rect" id="node2" href="$cor__menu__types_8h.html" title="Defines types and data structures for the hierarchical menu system." alt="" coords="5,156,147,183"/>
-<area shape="rect" id="node4" href="$svc__input_8h.html" title=" " alt="" coords="160,81,256,108"/>
-<area shape="rect" id="node3" title=" " alt="" coords="173,231,243,257"/>
-<area shape="rect" id="node5" href="$hw__input_8h.html" title=" " alt="" coords="245,156,339,183"/>
-</map>

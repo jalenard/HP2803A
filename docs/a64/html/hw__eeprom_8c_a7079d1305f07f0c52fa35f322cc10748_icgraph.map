@@ -1,5 +1,0 @@
-<map id="eeprom_driver_read" name="eeprom_driver_read">
-<area shape="rect" id="node1" title=" " alt="" coords="368,5,521,32"/>
-<area shape="rect" id="node2" href="$sys__eeprom_8c.html#a40259abdcc98cb297f454a6c0bdc947b" title="Read validated settings from EEPROM." alt="" coords="183,5,320,32"/>
-<area shape="rect" id="node3" href="$sys__eeprom_8c.html#ab187a77aec27e1eea553c4d938f61c1b" title="Initialize settings from EEPROM or fall back to defaults." alt="" coords="5,5,135,32"/>
-</map>

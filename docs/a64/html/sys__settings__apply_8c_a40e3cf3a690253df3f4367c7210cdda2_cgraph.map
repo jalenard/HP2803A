@@ -1,8 +1,0 @@
-<map id="sys_handle_ui_requests" name="sys_handle_ui_requests">
-<area shape="rect" id="node1" title=" " alt="" coords="5,71,183,98"/>
-<area shape="rect" id="node2" href="$sys__settings_8c.html#aa781d8969c2d9b749e55a908b86cc86d" title=" " alt="" coords="241,5,395,47"/>
-<area shape="rect" id="node3" href="$sys__settings_8c.html#a5cf549b7427dea7b467d60c15c902630" title=" " alt="" coords="231,71,405,98"/>
-<area shape="rect" id="node4" href="$sys__settings__apply_8c.html#adb4f2146681b408575370a741cda83ca" title=" " alt="" coords="245,123,391,164"/>
-<area shape="rect" id="node5" href="$hw__sample_8c.html#ae9334030f41591de35ba0dad2e516d5d" title=" " alt="" coords="453,130,588,157"/>
-<area shape="rect" id="node6" href="$timer_8c.html#a13de8ef1290e05017cb588c1db981510" title=" " alt="" coords="636,130,788,157"/>
-</map>

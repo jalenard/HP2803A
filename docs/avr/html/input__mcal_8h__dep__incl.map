@@ -1,7 +1,0 @@
-<map id="hardware/avr/input_mcal.h" name="hardware/avr/input_mcal.h">
-<area shape="rect" id="node1" title=" " alt="" coords="340,5,485,47"/>
-<area shape="rect" id="node2" href="$hw__hardware__init_8c.html" title=" " alt="" coords="5,95,204,136"/>
-<area shape="rect" id="node3" href="$hw__input_8c.html" title=" " alt="" coords="228,102,411,129"/>
-<area shape="rect" id="node4" href="$input__mcal_8c.html" title=" " alt="" coords="435,95,580,136"/>
-<area shape="rect" id="node5" href="$timer__mcal_8c.html" title=" " alt="" coords="605,95,751,136"/>
-</map>

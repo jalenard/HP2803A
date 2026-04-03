@@ -1,5 +1,0 @@
-<map id="system/sys_eeprom.h" name="system/sys_eeprom.h">
-<area shape="rect" id="node1" title="EEPROM interface for system settings." alt="" coords="5,5,171,32"/>
-<area shape="rect" id="node2" title=" " alt="" coords="53,155,123,181"/>
-<area shape="rect" id="node3" href="$sys__settings__types_8h.html" title=" " alt="" coords="67,80,226,107"/>
-</map>

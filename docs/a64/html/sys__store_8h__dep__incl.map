@@ -1,4 +1,0 @@
-<map id="system/sys_store.h" name="system/sys_store.h">
-<area shape="rect" id="node1" title="System&#45;level persistent storage interface (platform&#45;neutral)." alt="" coords="5,5,153,32"/>
-<area shape="rect" id="node2" href="$sys__store_8c.html" title="System&#45;level abstraction over hardware persistent storage." alt="" coords="6,80,153,107"/>
-</map>

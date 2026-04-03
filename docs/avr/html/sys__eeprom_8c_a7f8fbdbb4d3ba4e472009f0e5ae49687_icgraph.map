@@ -1,6 +1,0 @@
-<map id="compute_crc" name="compute_crc">
-<area shape="rect" id="node1" title=" " alt="" coords="372,31,477,57"/>
-<area shape="rect" id="node2" href="$sys__eeprom_8c.html#a40259abdcc98cb297f454a6c0bdc947b" title="Read validated settings from EEPROM." alt="" coords="185,5,322,32"/>
-<area shape="rect" id="node4" href="$sys__eeprom_8c.html#a19d97e582611c092d9d10184d276939f" title="Write settings to EEPROM with CRC and magic header." alt="" coords="183,56,324,83"/>
-<area shape="rect" id="node3" href="$sys__eeprom_8c.html#ab187a77aec27e1eea553c4d938f61c1b" title="Initialize settings from EEPROM or fall back to defaults." alt="" coords="5,31,135,57"/>
-</map>

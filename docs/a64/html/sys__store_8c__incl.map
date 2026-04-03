@@ -1,9 +1,0 @@
-<map id="system/sys_store.c" name="system/sys_store.c">
-<area shape="rect" id="node1" title="System&#45;level abstraction over hardware persistent storage." alt="" coords="169,5,316,32"/>
-<area shape="rect" id="node2" href="$sys__store_8h.html" title="System&#45;level persistent storage interface (platform&#45;neutral)." alt="" coords="76,80,172,107"/>
-<area shape="rect" id="node6" href="$sys__settings__types_8h.html" title=" " alt="" coords="281,155,439,181"/>
-<area shape="rect" id="node7" href="$hw__store_8h.html" title="Hardware abstraction for persistent storage." alt="" coords="196,80,289,107"/>
-<area shape="rect" id="node3" title=" " alt="" coords="123,155,205,181"/>
-<area shape="rect" id="node4" title=" " alt="" coords="24,155,99,181"/>
-<area shape="rect" id="node5" title=" " alt="" coords="207,229,278,256"/>
-</map>

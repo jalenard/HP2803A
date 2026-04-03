@@ -1,7 +1,0 @@
-<map id="system/sys_settings.h" name="system/sys_settings.h">
-<area shape="rect" id="node1" title="Provides storage and management for system settings." alt="" coords="109,5,275,32"/>
-<area shape="rect" id="node2" title=" " alt="" coords="5,80,88,107"/>
-<area shape="rect" id="node3" href="$sys__settings__types_8h.html" title=" " alt="" coords="113,80,271,107"/>
-<area shape="rect" id="node5" href="$cor__menu__types_8h.html" title="Defines types and data structures for the hierarchical menu system." alt="" coords="296,80,437,107"/>
-<area shape="rect" id="node4" title=" " alt="" coords="243,155,314,181"/>
-</map>

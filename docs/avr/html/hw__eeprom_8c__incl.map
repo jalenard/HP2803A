@@ -1,6 +1,0 @@
-<map id="hardware/avr/hw_eeprom.c" name="hardware/avr/hw_eeprom.c">
-<area shape="rect" id="node1" title="EEPROM driver for AVR platform." alt="" coords="27,5,226,32"/>
-<area shape="rect" id="node2" title=" " alt="" coords="5,80,115,107"/>
-<area shape="rect" id="node3" href="$hw__eeprom_8h.html" title=" " alt="" coords="139,80,250,107"/>
-<area shape="rect" id="node4" title=" " alt="" coords="159,155,230,181"/>
-</map>

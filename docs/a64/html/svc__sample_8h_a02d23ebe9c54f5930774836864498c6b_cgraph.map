@@ -1,9 +1,0 @@
-<map id="show_results" name="show_results">
-<area shape="rect" id="node1" title=" " alt="" coords="5,56,112,83"/>
-<area shape="rect" id="node2" href="$sys__counters_8c.html#a67190493a6bd337cdd2d6bc50cc8d018" title=" " alt="" coords="168,5,255,32"/>
-<area shape="rect" id="node3" href="$svc__temperature_8c.html#a6a2e9080f6852205ddb01b74490ff9c8" title=" " alt="" coords="169,56,253,83"/>
-<area shape="rect" id="node4" href="$tempr_8c.html#a805703927d6f8cc3f82e3005b37f5fba" title=" " alt="" coords="160,107,263,133"/>
-<area shape="rect" id="node5" href="$hw__display_8c.html#ac9121d04bf393a5ed8d7a1ecfae27369" title=" " alt="" coords="311,81,489,108"/>
-<area shape="rect" id="node7" href="$utils_8c.html#a4c885d2e936b130c9ce828a3fa32f420" title=" " alt="" coords="331,132,469,159"/>
-<area shape="rect" id="node6" href="$stdout_8c.html#a546db5a98df1b7f7c0bca780f974d5d9" title=" " alt="" coords="537,81,684,108"/>
-</map>

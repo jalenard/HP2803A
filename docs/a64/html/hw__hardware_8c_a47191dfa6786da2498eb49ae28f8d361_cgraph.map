@@ -1,7 +1,0 @@
-<map id="hardware_init" name="hardware_init">
-<area shape="rect" id="node1" title=" " alt="" coords="5,81,116,108"/>
-<area shape="rect" id="node2" href="$hw__display_8c.html#a407d5033a6f0198221c8a9081d7e807e" title=" " alt="" coords="169,5,266,32"/>
-<area shape="rect" id="node3" href="$gpio__mcal_8c.html#afdbe206b3c49f019757ab09b3cf52b9c" title=" " alt="" coords="178,56,257,83"/>
-<area shape="rect" id="node4" href="$interrupt__mcal_8c.html#aae3db3a98d70c22944d98e61fa398938" title=" " alt="" coords="164,107,271,133"/>
-<area shape="rect" id="node5" href="$usart__mcal_8c.html#ad2b461e9e9044364a28a61cfadcacdd8" title=" " alt="" coords="174,157,261,184"/>
-</map>

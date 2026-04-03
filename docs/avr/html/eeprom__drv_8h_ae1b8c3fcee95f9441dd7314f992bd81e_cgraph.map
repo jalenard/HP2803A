@@ -1,6 +1,0 @@
-<map id="eeprom_drv_settings_init" name="eeprom_drv_settings_init">
-<area shape="rect" id="node1" title=" " alt="" coords="5,5,192,32"/>
-<area shape="rect" id="node2" href="$eeprom__drv_8c.html#a1f6d53d800dec2da38e6f4af38dc5d48" title=" " alt="" coords="240,5,435,32"/>
-<area shape="rect" id="node3" href="$eeprom__drv_8c.html#a7b37c7b1961b4e955d26f44c528a6d35" title=" " alt="" coords="483,5,616,32"/>
-<area shape="rect" id="node4" href="$utils__crc_8c.html#a3969f8435f9bfb501ea9d00309b91c9e" title="Compute a 16&#45;bit CRC (CRC&#45;16/CCITT&#45;FALSE variant)." alt="" coords="664,5,721,32"/>
-</map>
