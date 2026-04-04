@@ -18,5 +18,5 @@ void timer_restart(void);
 void timer_set_timebase(TimebaseOption timebase_option);
 TimebaseOption timer_get_timebase(void);
 
-#endif // TIMERS_H
+#endif
 

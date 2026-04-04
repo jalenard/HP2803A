@@ -12,5 +12,5 @@ void render_base_view(void);
 void render_output_view(void);
 void render_fixed_menu_view(void);
 
-#endif /* COR_RENDER_VIEWS_H */
+#endif
 

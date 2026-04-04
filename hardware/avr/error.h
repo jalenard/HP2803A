@@ -1,4 +1,7 @@
-/* error.h */
+/**
+ * @file error.h
+ * @brief
+ */
 
 #ifndef ERROR_H
 #define ERROR_H

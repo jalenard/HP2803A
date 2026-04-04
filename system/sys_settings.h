@@ -1,9 +1,6 @@
 /**
  * @file sys_settings.h
  * @brief Provides storage and management for system settings.
- *
- * sys_settings.* owns current_settings and default_settings.
- * Access to current_settings provided through get_current_settings().
  */
 
 #ifndef SYS_SETTINGS_H
@@ -31,5 +28,5 @@ void sys_settings_clear_pending(void);
 BrightnessValue sys_settings_get_brightness(void);
 void sys_settings_set_brightness(BrightnessValue value);
 
-#endif /* SYS_SETTINGS_H */
+#endif
 

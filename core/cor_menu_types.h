@@ -2,6 +2,7 @@
  * @file cor_menu_types.h
  * @brief Defines types and data structures for the hierarchical menu system.
  */
+
 #ifndef COR_MENU_TYPES_H
 #define COR_MENU_TYPES_H
 
@@ -222,5 +223,5 @@ typedef struct MenuNode
     ActionID action_id;
 } MenuNode;
 
-#endif /* COR_MENU_TYPES_H */
+#endif
 

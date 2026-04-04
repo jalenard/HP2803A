@@ -1,3 +1,8 @@
+/**
+ * @file svc_view.h
+ * @brief
+ */
+
 #ifndef SVC_VIEW_H
 #define SVC_VIEW_H
 
@@ -11,5 +16,5 @@ typedef enum
 void svc_view_request_update(DisplayMode display_mode);
 void svc_view_update_if_needed(void);
 
-#endif // SVC_VIEW_H
+#endif
 
